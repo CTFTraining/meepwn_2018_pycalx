@@ -12,8 +12,8 @@
 ## 启动
 
     docker-compose up -d
-    open PyCalX Version 1 at http://127.0.0.1:4200/cgi-bin/pycalx.py
-    open PyCalX Version 2 at http://127.0.0.1:4200/cgi-bin/pycalx2.py
+    open PyCalX Version 1 at http://127.0.0.1:4320/cgi-bin/pycalx.py
+    open PyCalX Version 2 at http://127.0.0.1:4320/cgi-bin/pycalx2.py
 
 ## 版权
 
