@@ -1,0 +1,6 @@
+version: "2"
+services:
+  pycalx:
+    build: .
+    ports:
+      - "127.0.0.1:4320:80"
